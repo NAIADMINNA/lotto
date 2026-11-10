@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Number Studio Premium — Demo",
+  "short_name": "Number Studio",
+  "description": "ระบบสาธิตจัดการเลข 2 และ 3 ตัวและวิเคราะห์วงเงิน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf5ff",
+  "theme_color": "#2366b9",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
